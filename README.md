@@ -18,4 +18,4 @@ Este repositório contém um pipeline de ETL (Extract, Transform, Load) focado e
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/people-analytics-etl.git](https://github.com/seu-usuario/people-analytics-etl.git)
+   git clone [https://github.com/matheusebrasil/estudos-python.git](https://github.com/matheusebrasil/estudos-python.git)
